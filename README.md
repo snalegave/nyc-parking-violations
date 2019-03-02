@@ -37,7 +37,8 @@
     
 4.    What are the datasets you'll be working with to answer this question? Please include relevant background describing the datasets you identify.
 > The NYC Department of Finance collects data on every parking ticket issued in NYC. The data is made publicly available to aid in ticket resolution and to guide policymakers.	    
-> The dataset includes all the parking violations issued for the fiscal year 2019. This dataset has 43 columns and 6.95 million rows of data. The dataset includes the nature of the violation along with details of the vehicle, location and time.  
+> The dataset includes all the parking violations issued for the fiscal year 2019. This dataset has 43 columns and 6.95 million rows of data. The dataset includes the nature of the violation along with details of the vehicle, location and time.  &nbsp;
+
 > [New York Parking Violations Dataset](https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2019/pvqr-7yc4)  
 > We are going to try and understand the correlations that exist within the dataset to figure out what independent variables affect the frequency of parking violations.
     
