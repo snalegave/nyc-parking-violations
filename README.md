@@ -15,34 +15,25 @@
     -   We hope that our research will fit into the broader problem domain of traffic congestion. New York is known for its traffic and is considered as the city with the highest parking violations, and the highest amount of revenue received from parking violations. In 2010 alone, New York made $605 million in parking violations alone. By looking at these trends, we hope that the city can make better decisions according to where more parking accommodation is required, during what times. The following three papers are related to our problem:
 	    
 
-		-   Growth or Gridlock: The Economic Case for Traffic Relief & Transit Improvement for a Greater New York
+		-   [Growth or Gridlock: The Economic Case for Traffic Relief & Transit Improvement for a Greater New York](http://www.pfnyc.org/reports/GrowthGridlock_4pg.pdf)
 		    
-
-			-   [http://www.pfnyc.org/reports/GrowthGridlock_4pg.pdf](http://www.pfnyc.org/reports/GrowthGridlock_4pg.pdf)
-			    
 			-   This paper/infographic explains the economics behind how traffic is affecting New York. Talks about the delays that are affecting the community and which areas have the most delays.
 		    
 
-		-   Red Zone, Blue Zone: Discovering Parking Ticket Trends in New York City
-		    
-
-			-   [https://sites.temple.edu/samackerman/files/2012/10/NYC_parking_Samuel_Ackerman5.pdf](https://sites.temple.edu/samackerman/files/2012/10/NYC_parking_Samuel_Ackerman5.pdf)
-			    
+		-   [Red Zone, Blue Zone: Discovering Parking Ticket Trends in New York City](https://sites.temple.edu/samackerman/files/2012/10/NYC_parking_Samuel_Ackerman5.pdf)
+		     
 			-   This paper talks about trends in parking tickets for the year of 2010. The researcher looks at trends in the geographic distribution of tickets and built a clustergram analysis, to see general trends in who is doing the most violations, which type of car, etc.
 		    
 
-		-   Thinking About Congestions
-		    
-
-			-   [http://www.streetsblog.org/wp-content/uploads/2015/09/Steer-Davies-Gleave-Congestion-Analysis.pdf](http://www.streetsblog.org/wp-content/uploads/2015/09/Steer-Davies-Gleave-Congestion-Analysis.pdf)
+		-   [Thinking About Congestions](http://www.streetsblog.org/wp-content/uploads/2015/09/Steer-Davies-Gleave-Congestion-Analysis.pdf)
 			    
 			-   This paper defines congestion, what are the economic and engineering factors of congestion, and how congestion can be measured.
     
 
 
 3.   What specific hypothesis (hypotheses) are you going to test?
-	> 1.Can we accurately predict the frequency of parking violations based on location and time?    
-	> 2.Do car color, year, and model affect the likelihood of receiving a parking violation?
+	1.Can we accurately predict the frequency of parking violations based on location and time?    
+	2.Do car color, year, and model affect the likelihood of receiving a parking violation?
     
 4.    What are the datasets you'll be working with to answer this question? Please include relevant background describing the datasets you identify.
     
