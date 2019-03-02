@@ -32,15 +32,14 @@
 
 
 3.   What specific hypothesis (hypotheses) are you going to test?
-	1.Can we accurately predict the frequency of parking violations based on location and time?    
-	2.Do car color, year, and model affect the likelihood of receiving a parking violation?
+> 1.Can we accurately predict the frequency of parking violations based on location and time?    
+> 2.Do car color, year, and model affect the likelihood of receiving a parking violation?
     
 4.    What are the datasets you'll be working with to answer this question? Please include relevant background describing the datasets you identify.
-    
-	> The NYC Department of Finance collects data on every parking ticket issued in NYC. The data is made publicly available to aid in ticket resolution and to guide policymakers.	    
-	>The dataset includes all the parking violations issued for the fiscal year 2019. This dataset has 43 columns and 6.95 million rows of data. The dataset includes the nature of the violation along with details of the vehicle, location and time.
-	> [https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2019/pvqr-7yc4](https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2019/pvqr-7yc4)
-	> We are going to try and understand the correlations that exist within the dataset to figure out what independent variables affect the frequency of parking violations.
+> The NYC Department of Finance collects data on every parking ticket issued in NYC. The data is made publicly available to aid in ticket resolution and to guide policymakers.	    
+> The dataset includes all the parking violations issued for the fiscal year 2019. This dataset has 43 columns and 6.95 million rows of data. The dataset includes the nature of the violation along with details of the vehicle, location and time.
+> [https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2019/pvqr-7yc4](https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2019/pvqr-7yc4)
+> We are going to try and understand the correlations that exist within the dataset to figure out what independent variables affect the frequency of parking violations.
     
 
   
