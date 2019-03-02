@@ -1,5 +1,6 @@
 # NYC Parking Violations
 ### Project Description
+### By: Mohammed Almaroof, Siddarth Nalegave, Omar Azeemi, Yossi Watanabe
 
 1.   What is the overarching purpose of your research project, and why is it an important undertaking?
   -   Understand parking violations in New York City and study the various factors and variables that affect the frequency and locality of these parking violations.
