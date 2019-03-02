@@ -39,7 +39,7 @@
 > [New York Parking Violations Dataset](https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2019/pvqr-7yc4)  
 > The NYC Department of Finance collects data on every parking ticket issued in NYC. The data is made publicly available to aid in ticket resolution and to guide policymakers. &nbsp;	
 
-> The dataset includes all the parking violations issued for the fiscal year 2019. This dataset has 43 columns and 6.95 million rows of data. The dataset includes the nature of the violation along with details of the vehicle, location and time.  &nbsp;
+> The dataset includes all the parking violations issued for the fiscal year 2019. This dataset has 43 columns and 6.95 million rows of data. The dataset includes the nature of the violation along with details of the vehicle, location and time. &nbsp;
 
 > We are going to try and understand the correlations that exist within the dataset to figure out what independent variables affect the frequency of parking violations.
     
@@ -49,17 +49,17 @@
 5.   What statistical and machine learning methods do you plan on using to test your hypothesis?
     
 
-> &nbsp;&nbsp;&nbsp;We are going to use multivariate linear regression models to understand the relation between our dependent and independent variables. We will use forward-selection to select independent variables with high variance and that have the highest impact and effect on the number of parking violations.
-> &nbsp;&nbsp;&nbsp;After selecting the set of independent variables, we will perform the K Nearest Neighbors classifier machine learning method to predict cases of parking violations.
-> &nbsp;&nbsp;&nbsp;Another method we will use is a PolyFit regression model, with multiple polynomials, and see if the data is polynomial in nature.
+> &nbsp;&nbsp;&nbsp;We are going to use multivariate linear regression models to understand the relation between our dependent and independent variables. We will use forward-selection to select independent variables with high variance and that have the highest impact and effect on the number of parking violations.  
+> &nbsp;&nbsp;&nbsp;After selecting the set of independent variables, we will perform the K Nearest Neighbors classifier machine learning method to predict cases of parking violations.  
+> &nbsp;&nbsp;&nbsp;Another method we will use is a PolyFit regression model, with multiple polynomials, and see if the data is polynomial in nature.  
 > &nbsp;&nbsp;&nbsp;Neural Networks will be used and tested in predicting time series events, such as the time a car might get a ticket, what time streets have most tickets assigned, etc.
   
 6.   Who is your target audience for the resource you will build? Depending on the domain of your data, there may be a variety of audiences interested in using the dataset. You should hone in on one of these audiences.
     
 
-	> Our audience is comprised of the general public living in New York City and city officials, including New York’s parking enforcement. Using our resource, people should be able to avoid areas where they are most likely to receive a ticket. 
-	> Car buyers will also find benefit, by looking at our resource they will know whether certain models and colors may make them more prone to receiving parking violations. This will allow them to make more informed decisions before purchasing their car. 
-	> City officials will gain insight into what areas require new parking, and where exactly their revenue is coming from. For example, city officials could see that one area does not have very many tickets, they would ask the question whether this is because of low levels of enforcement or because of not very much parking? In most instances, a quick Google Maps street view would answer this question. If officials found that there was a lot of parking and not a lot of tickets they could up enforcement in the area, bringing up their revenue.
+> Our audience is comprised of the general public living in New York City and city officials, including New York’s parking enforcement. Using our resource, people should be able to avoid areas where they are most likely to receive a ticket. 
+> Car buyers will also find benefit, by looking at our resource they will know whether certain models and colors may make them more prone to receiving parking violations. This will allow them to make more informed decisions before purchasing their car. 
+> City officials will gain insight into what areas require new parking, and where exactly their revenue is coming from. For example, city officials could see that one area does not have very many tickets, they would ask the question whether this is because of low levels of enforcement or because of not very much parking? In most instances, a quick Google Maps street view would answer this question. If officials found that there was a lot of parking and not a lot of tickets they could up enforcement in the area, bringing up their revenue.
     
 
   
